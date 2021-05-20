@@ -10,6 +10,8 @@ namespace Input
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello" + " " + Console.ReadLine());
+            Console.ReadLine();
         }
     }
 }
