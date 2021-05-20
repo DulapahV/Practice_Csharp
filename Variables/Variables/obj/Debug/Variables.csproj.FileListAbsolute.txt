@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Variables\Variables\obj\Debug\Variables.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Variables\Variables\obj\Debug\Variables.pdb
