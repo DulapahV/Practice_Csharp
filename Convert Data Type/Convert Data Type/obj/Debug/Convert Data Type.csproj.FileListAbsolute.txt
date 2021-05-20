@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Convert Data Type\Convert Data Type\bin\Debug\Convert Data Type.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Convert Data Type\Convert Data Type\bin\Debug\Convert Data Type.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Convert Data Type\Convert Data Type\bin\Debug\Convert Data Type.pdb
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Convert Data Type\Convert Data Type\obj\Debug\Convert Data Type.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Convert Data Type\Convert Data Type\obj\Debug\Convert Data Type.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Convert Data Type\Convert Data Type\obj\Debug\Convert Data Type.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Convert Data Type\Convert Data Type\obj\Debug\Convert Data Type.pdb
