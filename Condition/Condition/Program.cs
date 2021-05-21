@@ -11,7 +11,9 @@ namespace Condition
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
-            if (10 == 10)
+            int salary = 12000;
+            int age = 15;
+            if (salary >= 15000 && age >= 18 || salary >= 20000 && age >= 15)
             {
                 Console.WriteLine("True");
             }
