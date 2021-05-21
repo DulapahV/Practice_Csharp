@@ -10,12 +10,17 @@ namespace Condition
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
-            int salary = 12000;
-            int age = 15;
+            Console.WriteLine("Salary: ");
+            int salary = int.Parse(Console.ReadLine());
+            Console.WriteLine("Age: ");
+            int age = int.Parse(Console.ReadLine());
             if (salary >= 15000 && age >= 18 || salary >= 20000 && age >= 15)
             {
-                Console.WriteLine("True");
+                Console.WriteLine("Nice");
+            }
+            else
+            {
+                Console.WriteLine("No");
             }
             Console.WriteLine("Bye");
             Console.ReadLine();
