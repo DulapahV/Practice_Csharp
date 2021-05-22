@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\HelloWorldGUI\HelloWorldGUI\bin\Debug\HelloWorldGUI.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\HelloWorldGUI\HelloWorldGUI\bin\Debug\HelloWorldGUI.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\HelloWorldGUI\HelloWorldGUI\bin\Debug\HelloWorldGUI.pdb
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\HelloWorldGUI\HelloWorldGUI\obj\Debug\MainWindow.g.cs
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\HelloWorldGUI\HelloWorldGUI\obj\Debug\App.g.cs
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI_MarkupCompile.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI_MarkupCompile.lref
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\HelloWorldGUI\HelloWorldGUI\obj\Debug\MainWindow.baml
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.g.resources
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.pdb
