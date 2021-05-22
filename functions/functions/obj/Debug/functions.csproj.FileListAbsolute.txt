@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\functions\functions\bin\Debug\functions.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\functions\functions\bin\Debug\functions.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\functions\functions\bin\Debug\functions.pdb
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\functions\functions\obj\Debug\functions.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\functions\functions\obj\Debug\functions.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\functions\functions\obj\Debug\functions.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\functions\functions\obj\Debug\functions.pdb
