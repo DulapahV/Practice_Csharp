@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\2D array\2D array\bin\Debug\2D array.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\2D array\2D array\bin\Debug\2D array.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\2D array\2D array\bin\Debug\2D array.pdb
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\2D array\2D array\obj\Debug\2D array.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\2D array\2D array\obj\Debug\2D array.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\2D array\2D array\obj\Debug\2D array.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\2D array\2D array\obj\Debug\2D array.pdb
