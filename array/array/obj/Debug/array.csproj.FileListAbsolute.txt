@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\array\array\bin\Debug\array.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\array\array\bin\Debug\array.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\array\array\bin\Debug\array.pdb
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\array\array\obj\Debug\array.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\array\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\array\array\obj\Debug\array.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\array\array\obj\Debug\array.pdb
