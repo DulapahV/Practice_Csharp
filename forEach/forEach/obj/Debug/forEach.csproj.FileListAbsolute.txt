@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\forEach\forEach\bin\Debug\forEach.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\forEach\forEach\bin\Debug\forEach.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\forEach\forEach\bin\Debug\forEach.pdb
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\forEach\forEach\obj\Debug\forEach.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\forEach\forEach\obj\Debug\forEach.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\forEach\forEach\obj\Debug\forEach.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\forEach\forEach\obj\Debug\forEach.pdb
