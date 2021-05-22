@@ -10,10 +10,25 @@ namespace array2
     {
         static void Main(string[] args)
         {
-            int[] ages = {18, 12, 14, 16, 28, 30};
-            string[] countries = { "Thailand", "Japan", "Laos" };
-            Console.WriteLine(ages[0]);
-            Console.WriteLine(countries[1]);
+            int people;
+            Console.WriteLine("How many people?");
+            people = int.Parse(Console.ReadLine());
+            string[] firstName = new string[people];
+            string[] lastName = new string[people];
+            int[] salary = new int[people];
+            for (int i = 0; i < people; i++)
+            {
+                Console.WriteLine("No." + (i+1) + " First Name:");
+                firstName[i] = Console.ReadLine();
+                Console.WriteLine("No." + (i+1) + " Last Name:");
+                lastName[i] = Console.ReadLine();
+                Console.WriteLine("No." + (i+1) + " Salary:");
+                salary[i] = int.Parse(Console.ReadLine());
+            }
+            for (int i = 0; i < people; i++)
+            {
+                Console.WriteLine(firstName[i] + " " + lastName[i] + ", Salary = " + salary[i]);
+            }
             Console.ReadLine();
         }
     }
