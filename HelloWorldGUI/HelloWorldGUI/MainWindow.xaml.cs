@@ -32,7 +32,8 @@ namespace HelloWorldGUI
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-
+            MessageBox.Show("Hello World");
+            ID_textbox.Text = "Test";
         }
     }
 }

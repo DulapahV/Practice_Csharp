@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HelloWorldGUI"
         mc:Ignorable="d"
-        Title="MainWindow" Height="650" Width="1000">
+        Title="n0miya" Height="650" Width="1000">
     <Grid>
         <Grid.Background>
             <ImageBrush ImageSource="depositphotos_353360894-stock-photo-abstract-background-blue-gradient-white.jpg"/>
@@ -13,7 +13,7 @@
         <Button x:Name="button" Content="Register" HorizontalAlignment="Center" Width="76" Click="button_Click" VerticalAlignment="Center" Margin="358,216,358,183" Background="White"/>
         <TextBox x:Name="textBox" HorizontalAlignment="Center" Height="23" TextWrapping="Wrap" Text="Password" VerticalAlignment="Center" Width="246" Margin="273,150,273,246"/>
         <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="MyVaccine" FontSize="36" RenderTransformOrigin="0.236,1.515" HorizontalAlignment="Center" VerticalAlignment="Center" Width="188" TextAlignment="Center" Height="53" Foreground="White" Margin="302,28,302,338"/>
-        <TextBox x:Name="Password" HorizontalAlignment="Center" Height="23" TextWrapping="Wrap" Text="National ID Number&#xD;&#xA;" VerticalAlignment="Center" Width="246" TextChanged="textBox_Copy_TextChanged" Margin="273,122,273,274"/>
+        <TextBox x:Name="ID_textbox" HorizontalAlignment="Center" Height="23" TextWrapping="Wrap" Text="National ID Number&#xD;&#xA;" VerticalAlignment="Center" Width="246" TextChanged="textBox_Copy_TextChanged" Margin="273,122,273,274"/>
         <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="373,196,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Register " Width="246" FontSize="16" Foreground="White"/>
         <TextBox x:Name="textBox_Copy" HorizontalAlignment="Center" Height="23" TextWrapping="Wrap" Text="Confirm Password" VerticalAlignment="Center" Width="246" Margin="273,178,273,218"/>
         <Button x:Name="button_Copy" Content="Login" HorizontalAlignment="Center" Width="76" Click="button_Click" VerticalAlignment="Center" Margin="358,372,358,27" Background="White"/>
