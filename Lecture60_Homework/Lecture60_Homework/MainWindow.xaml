@@ -1,0 +1,21 @@
+﻿<Window x:Class="Lecture60_Homework.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lecture60_Homework"
+        mc:Ignorable="d"
+        Title="n0miya" Height="270" Width="600">
+    <Grid>
+        <TextBlock x:Name="txtIncome" HorizontalAlignment="Left" Margin="21,19,0,0" TextWrapping="Wrap" Text="Income                                                 THB" VerticalAlignment="Top" FontSize="22" Foreground="Black"/>
+        <TextBlock x:Name="txtExpense" HorizontalAlignment="Left" Margin="21,69,0,0" TextWrapping="Wrap" Text="Expense                                                THB" VerticalAlignment="Top" FontSize="22" Foreground="Black"/>
+        <TextBlock x:Name="txtWish" HorizontalAlignment="Left" Margin="21,119,0,0" TextWrapping="Wrap" Text="Cost of item                                                THB" VerticalAlignment="Top" FontSize="22" Foreground="Black"/>
+        <TextBox x:Name="inputIncome" HorizontalAlignment="Left" Height="23" Margin="110,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="265" FontSize="18"/>
+        <TextBox x:Name="inputExpense" HorizontalAlignment="Left" Height="23" Margin="110,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="265" FontSize="18"/>
+        <TextBox x:Name="inputCost" HorizontalAlignment="Left" Height="23" Margin="150,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="265" FontSize="18"/>
+        <Button x:Name="button_calculate" Content="Calculate" HorizontalAlignment="Left" Margin="21,179,0,0" VerticalAlignment="Top" Width="105" Height="35" FontSize="18" Click="button_calculate_Click"/>
+        <TextBox x:Name="resultDays" HorizontalAlignment="Left" Height="23" Margin="348,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False" FontSize="18"/>
+        <TextBlock x:Name="txtResult" HorizontalAlignment="Left" Margin="140,181,0,0" TextWrapping="Wrap" Text="You have to save for                        days!" VerticalAlignment="Top" FontSize="22" Foreground="Black"/>
+
+    </Grid>
+</Window>

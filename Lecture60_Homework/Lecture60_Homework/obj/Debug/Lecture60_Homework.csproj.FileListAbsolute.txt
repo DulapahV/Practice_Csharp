@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Lecture60_Homework\Lecture60_Homework\bin\Debug\Lecture60_Homework.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Lecture60_Homework\Lecture60_Homework\bin\Debug\Lecture60_Homework.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Lecture60_Homework\Lecture60_Homework\bin\Debug\Lecture60_Homework.pdb
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Lecture60_Homework\Lecture60_Homework\obj\Debug\Lecture60_Homework.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Lecture60_Homework\Lecture60_Homework\obj\Debug\MainWindow.g.cs
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Lecture60_Homework\Lecture60_Homework\obj\Debug\App.g.cs
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Lecture60_Homework\Lecture60_Homework\obj\Debug\Lecture60_Homework_MarkupCompile.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Lecture60_Homework\Lecture60_Homework\obj\Debug\Lecture60_Homework_MarkupCompile.lref
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Lecture60_Homework\Lecture60_Homework\obj\Debug\MainWindow.baml
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Lecture60_Homework\Lecture60_Homework\obj\Debug\Lecture60_Homework.g.resources
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Lecture60_Homework\Lecture60_Homework\obj\Debug\Lecture60_Homework.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Lecture60_Homework\Lecture60_Homework\obj\Debug\Lecture60_Homework.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Lecture60_Homework\Lecture60_Homework\obj\Debug\Lecture60_Homework.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Lecture60_Homework\Lecture60_Homework\obj\Debug\Lecture60_Homework.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Lecture60_Homework\Lecture60_Homework\obj\Debug\Lecture60_Homework.pdb
