@@ -23,6 +23,10 @@ namespace OOP
         public MainWindow()
         {
             InitializeComponent();
+            Customer customer = new Customer();
+            customer.Name = "Dulapah";
+            customer.LastName = "Vibulsanti";
+            MessageBox.Show("Hello " + customer.Name + " " + customer.LastName);
         }
     }
 }
