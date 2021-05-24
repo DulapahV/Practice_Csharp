@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\OOP2\OOP2\bin\Debug\OOP2.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\OOP2\OOP2\bin\Debug\OOP2.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\OOP2\OOP2\bin\Debug\OOP2.pdb
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\OOP2\OOP2\obj\Debug\OOP2.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\OOP2\OOP2\obj\Debug\MainWindow.g.cs
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\OOP2\OOP2\obj\Debug\App.g.cs
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\OOP2\OOP2\obj\Debug\OOP2_MarkupCompile.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\OOP2\OOP2\obj\Debug\OOP2_MarkupCompile.lref
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\OOP2\OOP2\obj\Debug\MainWindow.baml
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\OOP2\OOP2\obj\Debug\OOP2.g.resources
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\OOP2\OOP2\obj\Debug\OOP2.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\OOP2\OOP2\obj\Debug\OOP2.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\OOP2\OOP2\obj\Debug\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\OOP2\OOP2\obj\Debug\OOP2.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\OOP2\OOP2\obj\Debug\OOP2.pdb
