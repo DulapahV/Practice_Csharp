@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Constructor\Constructor\obj\Debug\Constructor.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Constructor\Constructor\obj\Debug\MainWindow.g.cs
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Constructor\Constructor\obj\Debug\App.g.cs
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Constructor\Constructor\obj\Debug\Constructor_MarkupCompile.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Constructor\Constructor\obj\Debug\Constructor_MarkupCompile.lref
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Constructor\Constructor\obj\Debug\MainWindow.baml
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Constructor\Constructor\obj\Debug\Constructor.g.resources
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Constructor\Constructor\obj\Debug\Constructor.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Constructor\Constructor\obj\Debug\Constructor.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\Constructor\Constructor\obj\Debug\Constructor.pdb
