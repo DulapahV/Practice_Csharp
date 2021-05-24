@@ -16,5 +16,10 @@ namespace OOP2
         {
             return "Meow!";
         }
+
+        public string move() // Overide Animal.cs
+        {
+            return "Super RUN!";
+        }
     }
 }

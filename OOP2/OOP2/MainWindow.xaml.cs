@@ -26,6 +26,7 @@ namespace OOP2
             Cat cat = new Cat();
             MessageBox.Show(cat.cry());
             MessageBox.Show(cat.breathing());
+            MessageBox.Show(cat.move());
         }
     }
 }
