@@ -20,9 +20,15 @@ namespace ArrayList
     /// </summary>
     public partial class MainWindow : Window
     {
+        ArrayList arrayList;
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void button_showAll_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
