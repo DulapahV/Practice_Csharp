@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\QueueApp\QueueApp\bin\Debug\QueueApp.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\QueueApp\QueueApp\bin\Debug\QueueApp.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\QueueApp\QueueApp\bin\Debug\QueueApp.pdb
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\QueueApp\QueueApp\obj\Debug\QueueApp.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\QueueApp\QueueApp\obj\Debug\MainWindow.g.cs
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\QueueApp\QueueApp\obj\Debug\App.g.cs
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\QueueApp\QueueApp\obj\Debug\QueueApp_MarkupCompile.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\QueueApp\QueueApp\obj\Debug\QueueApp_MarkupCompile.lref
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\QueueApp\QueueApp\obj\Debug\MainWindow.baml
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\QueueApp\QueueApp\obj\Debug\QueueApp.g.resources
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\QueueApp\QueueApp\obj\Debug\QueueApp.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\QueueApp\QueueApp\obj\Debug\QueueApp.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\QueueApp\QueueApp\obj\Debug\QueueApp.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\QueueApp\QueueApp\obj\Debug\QueueApp.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\QueueApp\QueueApp\obj\Debug\QueueApp.pdb
