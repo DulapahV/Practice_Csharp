@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\ArrayListApp\ArrayListApp\bin\Debug\ArrayListApp.exe.config
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\ArrayListApp\ArrayListApp\bin\Debug\ArrayListApp.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\ArrayListApp\ArrayListApp\bin\Debug\ArrayListApp.pdb
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\ArrayListApp\ArrayListApp\obj\Debug\MainWindow.g.cs
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\ArrayListApp\ArrayListApp\obj\Debug\App.g.cs
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp_MarkupCompile.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp_MarkupCompile.lref
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\ArrayListApp\ArrayListApp\obj\Debug\MainWindow.baml
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.g.resources
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.exe
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\ArrayListApp\ArrayListApp\obj\Debug\ArrayListApp.pdb
