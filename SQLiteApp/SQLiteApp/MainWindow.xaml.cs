@@ -23,6 +23,7 @@ namespace SQLiteApp
         public MainWindow()
         {
             InitializeComponent();
+            DataAccess.InitializeDatabase();
         }
     }
 }
