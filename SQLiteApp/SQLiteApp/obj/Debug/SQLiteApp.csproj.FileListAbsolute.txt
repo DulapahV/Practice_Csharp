@@ -18,12 +18,10 @@ C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\SQLiteApp\SQLiteApp
 C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\SQLiteApp\SQLiteApp\bin\Debug\System.Memory.xml
 C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\SQLiteApp\SQLiteApp\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\SQLiteApp\SQLiteApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.csprojAssemblyReference.cache
 C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\SQLiteApp\SQLiteApp\obj\Debug\MainWindow.g.cs
 C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\SQLiteApp\SQLiteApp\obj\Debug\App.g.cs
 C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp_Content.g.cs
 C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp_MarkupCompile.cache
-C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp_MarkupCompile.lref
 C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\SQLiteApp\SQLiteApp\obj\Debug\MainWindow.baml
 C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.g.resources
 C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.Properties.Resources.resources
@@ -32,3 +30,4 @@ C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\SQLiteApp\SQLiteApp
 C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.csproj.CopyComplete
 C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.exe
 C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.pdb
+C:\Users\User\OneDrive\Documents\GitHub\P-Csharp-Programming\SQLiteApp\SQLiteApp\obj\Debug\SQLiteApp.csproj.AssemblyReference.cache
