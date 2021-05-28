@@ -10,8 +10,8 @@
         <Canvas x:Name="LoginMenu" HorizontalAlignment="Left" Height="599" Margin="10,10,0,0" VerticalAlignment="Top" Width="972">
             <Separator x:Name="sprt_admin" Height="100" Canvas.Left="10" Margin="0" Canvas.Top="495" Width="952"/>
             <TextBlock x:Name="txt_adminLogin" Canvas.Left="10" TextWrapping="Wrap" Canvas.Top="560" Text="Admin Login" FontSize="22"/>
-            <TextBox x:Name="txtBox_adminUsername" Canvas.Left="160" TextWrapping="Wrap" Text="Username" Canvas.Top="560" FontSize="22" Width="165"/>
-            <PasswordBox x:Name="txtBox_adminPassword" Canvas.Left="345" Canvas.Top="560" Width="165" FontSize="22" Password="Password"/>
+            <TextBox x:Name="txtBox_adminUsername" Canvas.Left="160" TextWrapping="Wrap" Text="Username" Canvas.Top="560" FontSize="22" Width="165" GotMouseCapture="txtBox_adminUsername_GotMouseCapture" LostFocus="txtBox_adminUsername_LostFocus"/>
+            <PasswordBox x:Name="txtBox_adminPassword" Canvas.Left="345" Canvas.Top="560" Width="165" FontSize="22" Password="Password" GotMouseCapture="txtBox_adminPassword_GotMouseCapture" LostFocus="txtBox_adminPassword_LostFocus"/>
             <Button x:Name="btn_adminLogin" Content="Login" Canvas.Left="530" Canvas.Top="560" Width="85" FontSize="22"/>
             <TextBlock x:Name="txt_greetings" Canvas.Left="160" TextWrapping="Wrap" Canvas.Top="65" FontSize="48" VerticalAlignment="Center" HorizontalAlignment="Center" Text="Welcome to n0miya bookstore!"/>
             <Separator x:Name="sprt_user" Height="136" Canvas.Left="330" Margin="0" Canvas.Top="258" Width="288" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="Black">
@@ -25,14 +25,14 @@
                 </Separator.RenderTransform>
             </Separator>
             <TextBlock x:Name="txt_existingUser" Canvas.Left="530" TextWrapping="Wrap" Canvas.Top="193" Text="Existing User" FontSize="30"/>
-            <TextBox x:Name="txtBox_userUsername" TextWrapping="Wrap" Text="Username" FontSize="22" Height="32" Canvas.Left="530" Canvas.Top="266" Width="355"/>
-            <PasswordBox x:Name="txtBox_userPassword" FontSize="22" Password="Password" Height="31" Canvas.Left="530" Canvas.Top="316" Width="355"/>
-            <Button x:Name="btn_userLogin" Content="Login" Canvas.Left="782" Canvas.Top="367" Width="103" FontSize="22"/>
+            <TextBox x:Name="txtBox_userUsername" TextWrapping="Wrap" Text="Username" FontSize="22" Height="32" Canvas.Left="530" Canvas.Top="266" Width="355" GotMouseCapture="txtBox_userUsername_GotMouseCapture" LostFocus="txtBox_userUsername_LostFocus"/>
+            <PasswordBox x:Name="txtBox_userPassword" FontSize="22" Password="Password" Height="31" Canvas.Left="530" Canvas.Top="316" Width="355" GotMouseCapture="txtBox_userPassword_GotMouseCapture" LostFocus="txtBox_userPassword_LostFocus"/>
+            <Button x:Name="btn_userLogin" Content="Login" Canvas.Left="782" Canvas.Top="367" Width="103" FontSize="22" Click="btn_userLogin_Click"/>
             <TextBlock x:Name="txt_newUser" Canvas.Left="51" TextWrapping="Wrap" Canvas.Top="193" Text="New User" FontSize="30"/>
-            <TextBox x:Name="txtBox_newUsername" TextWrapping="Wrap" Text="Username" FontSize="22" Height="32" Canvas.Left="51" Canvas.Top="266" Width="354"/>
-            <PasswordBox x:Name="txtBox_newPassword" FontSize="22" Password="Password" Height="31" Canvas.Left="51" Canvas.Top="316" Width="354"/>
-            <PasswordBox x:Name="txtBox_newPasswordConfirm" FontSize="22" Password="Password" Height="31" Canvas.Left="51" Canvas.Top="367" Width="354"/>
-            <Button x:Name="btn_register" Content="Register" Canvas.Left="302" Canvas.Top="420" Width="103" FontSize="22"/>
+            <TextBox x:Name="txtBox_newUsername" TextWrapping="Wrap" Text="Username" FontSize="22" Height="32" Canvas.Left="51" Canvas.Top="266" Width="354" GotMouseCapture="txtBox_newUsername_GotMouseCapture" LostFocus="txtBox_newUsername_LostFocus"/>
+            <PasswordBox x:Name="txtBox_newPassword" FontSize="22" Password="Password" Height="31" Canvas.Left="51" Canvas.Top="316" Width="354" GotMouseCapture="txtBox_newPassword_GotMouseCapture" LostFocus="txtBox_newPassword_LostFocus"/>
+            <PasswordBox x:Name="txtBox_newPasswordConfirm" FontSize="22" Password="Password" Height="31" Canvas.Left="51" Canvas.Top="367" Width="354" GotMouseCapture="txtBox_newPasswordConfirm_GotMouseCapture" LostFocus="txtBox_newPasswordConfirm_LostFocus"/>
+            <Button x:Name="btn_register" Content="Register" Canvas.Left="302" Canvas.Top="420" Width="103" FontSize="22" Click="btn_register_Click"/>
         </Canvas>
 
     </Grid>
